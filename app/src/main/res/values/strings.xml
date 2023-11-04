@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UTS_Prak_Mobile</string>
+    <string name="store_label">City</string>
+
+    <string-array name="store_label">
+        <item>Cihampelas</item>
+        <item>Cibiru</item>
+    </string-array>
+
+    <string name="name_hint">Please insert your name</string>
+
+</resources>
